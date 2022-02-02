@@ -1,7 +1,6 @@
 # MOJcodes
 # Putting it into practice
 
-
 print("\nMarking scheme | Grade calculator \n"
       "----------------------MOJCODES-------------------------"
       "\n"
